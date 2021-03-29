@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteAddSub">
+    <test name="TestAddSub">
+        <classes>
+            <class name="testing1.TestAdd" />
+            <class name="testing1.TestSub"/>
+        </classes>
+    </test>
+</suite>
